@@ -1,0 +1,16 @@
+{
+	"required": true,
+	"package": "skorlex.fogbegone.mixin",
+	"compatibilityLevel": "JAVA_25",
+	"mixins": [],
+	"client": [
+		"AccessibilityOptionsScreenMixin",
+		"FogRendererMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}
