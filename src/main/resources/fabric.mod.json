@@ -2,13 +2,14 @@
 	"schemaVersion": 1,
 	"id": "fogbegone",
 	"version": "${version}",
-	"name": "fogbegone",
+	"name": "FogBeGone",
 	"description": "Easily disable or adjust all environmental, dimension, and status effect fogs in Minecraft.",
 	"authors": [
 		"Skorlex"
 	],
 	"contact": {
-		"sources": "https://github.com/Skorlex/FogBeGone"
+		"homepage": "https://modrinth.com/mod/fogbegone",
+		"issues": "https://github.com/Skorlex/FogBeGone/issues"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/fogbegone/icon.png",
@@ -16,6 +17,9 @@
 	"entrypoints": {
 		"client": [
 			"skorlex.fogbegone.Fogbegone"
+		],
+		"modmenu": [
+			"skorlex.fogbegone.client.ModMenuIntegration"
 		]
 	},
 	"mixins": [
