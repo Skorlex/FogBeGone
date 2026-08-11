@@ -22,4 +22,4 @@ FogBeGone is a client-side Fabric mod that lets you customize different type of 
 ### Quick & Easy Access
 
 - **In-Game Keybind:** Press F9 (rebindable under Options ➔ Controls ➔ Key Binds ➔ FogBeGone) to open the configuration menu instantly while playing.
-- **Settings Menu Integration:** Access options directly via a dedicated FogBeGone Options... button added to Minecraft's native Accessibility Options screen.
+- **Mod Menu Integration:** Access your settings directly through Mod Menu by clicking the configuration gear icon next to FogBeGone in your mods list.
