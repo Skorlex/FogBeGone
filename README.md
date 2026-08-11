@@ -1,9 +1,25 @@
-# fogbegone
+FogBeGone is a client-side Fabric mod that lets you customize different type of fogs in the game to let you play how you want.
 
-## Setup
+## Features
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+### Liquid Fog Controls
 
-## License
+- **Underwater Fog:** Adjust water fog density from 0% (completely clear) up to 100% (vanilla default).
+- **Lava Fog:** Tweak lava fog density from 0% (full visibility) up to 100% (vanilla default).
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+### Status Effect Fogs
+
+- **Blindness Fog:** Turn off the thick black void caused by the Blindness effect.
+- **Darkness Fog:** Disable the pulsing darkness fog caused by Wardens and Deep Dark structures.
+
+### Atmospheric & Dimension Fogs
+
+- **Overworld Fog:** Remove distance haze and atmospheric perspective in the Overworld.
+- **Nether Fog:** Clear out the thick, biome-colored fog in the Nether.
+- **End Fog:** Eliminate the dense atmospheric haze present in The End dimension during the Ender Dragon fight.
+- **World Border Fog:** Disable the fog fading effect at the edge of your render distance.
+
+### Quick & Easy Access
+
+- **In-Game Keybind:** Press F9 (rebindable under Options ➔ Controls ➔ Key Binds ➔ FogBeGone) to open the configuration menu instantly while playing.
+- **Settings Menu Integration:** Access options directly via a dedicated FogBeGone Options... button added to Minecraft's native Accessibility Options screen.
